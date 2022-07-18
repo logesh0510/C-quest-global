@@ -1,0 +1,400 @@
+15-07-2022
+internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number;
+            Console.WriteLine("enter a number: ");
+            number=Convert.ToInt32(Console.ReadLine());
+            switch(number)
+            {
+                case 1:
+                    Console.WriteLine("sunday");
+                    break;
+                case 2:
+                    Console.WriteLine("Monday");
+                    break ;
+                case 3:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 5:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 6:
+                    Console.WriteLine("Friday");
+                    break;
+                case 7:
+                    Console.WriteLine("saturday");
+                    break;
+                default:
+                    Console.WriteLine("There is no day corresponding to entered number");
+                    break;
+            }
+        }
+    }
+}
+
+
+int ll,ul,i;
+            Console.WriteLine("enter a ll: ");
+            ll=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter a ul: ");
+            ul = Convert.ToInt32(Console.ReadLine());
+            i = ll;
+            while (i <= ul)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+
+
+
+{
+            int totn,i,sum,n;
+            Console.WriteLine("enter a totn: ");
+            totn=Convert.ToInt32(Console.ReadLine());
+            i = 1;
+            sum = 0;
+            while (i <= totn)
+            {
+                Console.WriteLine("enter number " + i + " :");
+                n= Convert.ToInt32(Console.ReadLine());
+                sum = sum + n;
+             i++;
+            }
+            Console.WriteLine("total of " + totn + " numbers is : " + sum);
+        }
+
+
+
+ {
+            int i,ul,ll,option,sum,evensum,oddsum;
+            sum= 0;
+            evensum= 0;
+            oddsum= 0;
+            Console.WriteLine("enter a ul: ");
+            ul=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter a ll: ");
+            ll = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter a option: ");
+            option = Convert.ToInt32(Console.ReadLine());
+            i = ll;
+            switch (option)
+            { 
+                case 1:
+                    while(i<=ul)
+                    {
+                        sum=sum+i;
+                        i++;
+                    }
+                    Console.WriteLine("Sum " + sum);
+                    break;
+                case 2: 
+                    while(i<=ul)
+                    {
+                        if (i % 2 == 0)
+                        {
+                           evensum=evensum+i;
+                        }
+                        i++;
+                    }
+                    Console.WriteLine("evensum " + evensum);
+                    break;
+                case 3:
+                    while (i <= ul)
+                    {
+                        if (i % 2 != 0)
+                        {
+                            oddsum = oddsum + i;
+                        }
+                        i++;
+                    }
+                    Console.WriteLine("oddsum " + oddsum);
+                    break;
+            }
+
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,n,fac;
+            Console.WriteLine("enter a number: ");
+            n = Convert.ToInt32(Console.ReadLine());
+            fac= 1;
+            i = 1;
+            while (n>1)
+            {
+                fac *= n;
+                n--;
+                i++;
+            }
+
+            Console.WriteLine("fac of "+i+" is : "+fac);
+        }
+    }
+}
+
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n, sum;
+            Console.WriteLine("enter the number: ");
+            n=int.Parse(Console.ReadLine());
+            sum = 0;
+            while (n > 0)
+            {
+                sum += n % 10;
+                n = n / 10;
+            }
+            Console.WriteLine("sum of digit is: "+sum);
+             
+            }
+    }
+}
+
+Lab -15-07-2022
+class HelloWorld {
+  static void Main() {
+            int units,bill;
+            Console.WriteLine("enter the units consumed: ");
+            units=Convert.ToInt32(Console.ReadLine());
+            if(1<=units && units<=100)
+            {
+             bill=units*5;
+             Console.WriteLine("your bill for "+units+ " is "+bill);
+            }
+            else if(101<=units && units<=200)
+            {
+             bill=units*6;
+             Console.WriteLine("your bill for "+units+ " is "+bill);
+            }
+            else if(201<=units && units<=300)
+            {
+             bill=units*7;
+             Console.WriteLine("your bill for "+units+ " is "+bill);
+            }
+            else
+            {
+            bill=units*8;
+            Console.WriteLine("your bill for "+units+ " is "+bill);
+            }
+
+  }
+} 
+
+using System;
+class HelloWorld {
+  static void Main() {
+     int h,b,r,option;
+     double circle,triangle;
+            Console.WriteLine("enter the option: 1 for circle and 2 for triangle area ");
+            option=Convert.ToInt32(Console.ReadLine());
+            switch (option)
+            { 
+                case 1:
+                    Console.WriteLine("enter the radius: ");
+                    r=Convert.ToInt32(Console.ReadLine());
+                    circle=3.14 * r *r;
+                    Console.WriteLine("circle area is "+circle);
+                    break;
+                case 2:
+                    Console.WriteLine("enter the height: ");
+                    h=Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("enter the base: ");
+                    b=Convert.ToInt32(Console.ReadLine());
+                    triangle=(h*b)/2.0;
+                    Console.WriteLine("triangle area is "+triangle);
+                    break;
+            }
+  }
+}
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int n,square;
+      Console.WriteLine("enter the number: ");
+      n=Convert.ToInt32(Console.ReadLine());
+      square=n*n;
+      Console.WriteLine("square of "+n+" is: "+square);
+  }
+}
+
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int i,n,power,result;
+      Console.WriteLine("enter the number: ");
+      n=Convert.ToInt32(Console.ReadLine());
+      Console.WriteLine("enter the power: ");
+      power=Convert.ToInt32(Console.ReadLine());
+      i=power;
+      result=1;
+      while(i>=1)
+      {
+          result*=n;
+          i--;
+      }
+      
+      Console.WriteLine("power "+power+" of "+n+" is: "+result);
+  }
+}
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int i,table,upto;
+      Console.WriteLine("enter the table: ");
+      table=Convert.ToInt32(Console.ReadLine());
+      Console.WriteLine("enter the upto: ");
+      upto=Convert.ToInt32(Console.ReadLine());
+      i=1;
+      while(i<=upto)
+      {
+          Console.WriteLine(i+" * "+table+" = "+(i*table));
+          i++;
+      }
+}
+}  
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int num,rem,result,temp;
+      Console.WriteLine("enter the number: ");
+      num=Convert.ToInt32(Console.ReadLine());
+      temp=num;
+      result=0;
+      while(num>0)
+      {
+        rem=num%10;
+        num=num/10;
+        result+=(rem*rem*rem);
+      }
+      if(result==temp)
+      {
+          Console.WriteLine("it's armstrong");
+      }
+      else
+      {
+          Console.WriteLine("it's not armstrong");
+      }
+}
+} 
+
+using System;
+class HelloWorld {
+  static void Main() {
+    int a=40,b=152;
+    a=a+b;
+    b=a-b;
+    a=a-b;
+    Console.WriteLine("a is: "+a+" b is: "+b);
+}
+} 
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int n,old=0,current=1,next=0;
+      Console.WriteLine("enter upto which fibonacci need to printed: ");
+      n=Convert.ToInt32(Console.ReadLine());
+      Console.Write(old+"");
+      while(next<=n)
+      {
+       next=old+current;
+       old=current;
+       current=next;
+       Console.Write(" "+old);
+       }
+  }
+} 
+
+using System;
+class HelloWorld {
+  static void Main() {
+      int i,n,old=0,current=1,next=0;
+      Console.WriteLine("enter nth fibonacci number you wanted: ");
+      n=Convert.ToInt32(Console.ReadLine());
+      if (n==1){
+          Console.WriteLine("0");
+      }
+      else if(n==2){
+          Console.WriteLine("1");
+      }
+      i=3;
+      while(i<=n)
+      {
+       next=old+current;
+       old=current;
+       current=next;
+       if (i==n)
+       {
+        Console.WriteLine(n+" fibonacci number is: "+current);  
+       }
+       i++;
+       }
+  }
+} 
+
+using System;
+class HelloWorld {
+  static void Main() {
+    int count=1,n,l1,largest=0;
+    Console.WriteLine("enter how many numbers to be accepted");
+    n=Convert.ToInt32(Console.ReadLine());
+    while(count<=n)
+    {
+     Console.WriteLine("enter value "+count);
+     l1=Convert.ToInt32(Console.ReadLine());
+     if (l1>largest)
+     {
+      largest=l1;
+     }
+     count++;
+    }
+    Console.WriteLine("largest number among given is: "+largest);
+  }
+}
+
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num,half,i,flag;
+            Console.WriteLine("enter the number: ");
+            num = Convert.ToInt32(Console.ReadLine());
+            half = (int)num / 2;
+            i = 2;flag = 0;
+            while(i<=half)
+            {
+                if (num % i == 0)
+                {
+                    Console.WriteLine("It's not prime");
+                    flag = 1;
+                    break;
+                }
+                i++;
+            }
+            if (flag == 0)
+            {
+                Console.WriteLine("It's prime");
+            }
+
+        }
+    }
+}
