@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day18-07\Largest of three number\bin\Debug\Largest of three number.exe.config
+C:\Users\HP\source\repos\Day18-07\Largest of three number\bin\Debug\Largest of three number.exe
+C:\Users\HP\source\repos\Day18-07\Largest of three number\bin\Debug\Largest of three number.pdb
+C:\Users\HP\source\repos\Day18-07\Largest of three number\obj\Debug\Largest of three salaries.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day18-07\Largest of three number\obj\Debug\Largest of three salaries.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day18-07\Largest of three number\obj\Debug\Largest of three salaries.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day18-07\Largest of three number\obj\Debug\Largest of three number.exe
+C:\Users\HP\source\repos\Day18-07\Largest of three number\obj\Debug\Largest of three number.pdb

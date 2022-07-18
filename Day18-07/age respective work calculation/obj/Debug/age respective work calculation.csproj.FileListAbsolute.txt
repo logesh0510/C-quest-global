@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\bin\Debug\age respective work calculation.exe.config
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\bin\Debug\age respective work calculation.exe
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\bin\Debug\age respective work calculation.pdb
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\obj\Debug\age respective work calculation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\obj\Debug\age respective work calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\obj\Debug\age respective work calculation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\obj\Debug\age respective work calculation.exe
+C:\Users\HP\source\repos\Day18-07\age respective work calculation\obj\Debug\age respective work calculation.pdb

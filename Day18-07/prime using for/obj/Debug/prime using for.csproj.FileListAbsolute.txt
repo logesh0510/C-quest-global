@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day18-07\prime using for\bin\Debug\prime using for.exe.config
+C:\Users\HP\source\repos\Day18-07\prime using for\bin\Debug\prime using for.exe
+C:\Users\HP\source\repos\Day18-07\prime using for\bin\Debug\prime using for.pdb
+C:\Users\HP\source\repos\Day18-07\prime using for\obj\Debug\prime using for.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day18-07\prime using for\obj\Debug\prime using for.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day18-07\prime using for\obj\Debug\prime using for.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day18-07\prime using for\obj\Debug\prime using for.exe
+C:\Users\HP\source\repos\Day18-07\prime using for\obj\Debug\prime using for.pdb
