@@ -1,0 +1,97 @@
+13-07-2022
+using System;
+class HelloWorld {
+  static void Main() {
+    int b;
+    int h;
+    Console.WriteLine("enter base : ");
+    b=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter height : ");
+    h=Convert.ToInt32(Console.ReadLine());
+    double area=(h*b)/2.0;
+    Console.WriteLine(area);
+    }
+}
+
+
+using System;
+class HelloWorld {
+  static void Main() {
+    double T;
+    Console.WriteLine("enter temp in celsius : ");
+    T=Convert.ToDouble(Console.ReadLine());
+    double TF=(T*1.8)+32;
+    Console.WriteLine("temp in fahrenheit is " + TF);
+  }
+}
+
+
+using System;
+class HelloWorld {
+  static void Main() {
+    int a;
+    int b;
+    int c;
+    Console.WriteLine("enter a : ");
+    a=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter b : ");
+    b=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter c : ");
+    c=Convert.ToInt32(Console.ReadLine());
+    int sum = a+b+c;
+    double average=(a+b+c)/3.0;
+    Console.WriteLine("sum is :"+sum);
+    Console.WriteLine("average is: "+average);
+  }
+}
+
+
+using System;
+class HelloWorld {
+  static void Main() {
+    int empno,BS;
+    string name;
+    double POD,POA;
+    Console.WriteLine("enter empno : ");
+    empno=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter name : ");
+    name=Console.ReadLine();
+    Console.WriteLine("enter BS : ");
+    BS=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter POD : ");
+    POD=Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("enter POA : ");
+    POA=Convert.ToDouble(Console.ReadLine());
+    double total_ded=BS*(POD/100.0);
+    double total_allowance=BS*(POA/100.0);
+    double grosspay=BS-total_ded;
+    double netpay=grosspay+total_allowance;
+    Console.WriteLine("grosspay is "+grosspay+" netpay is "+netpay);
+    
+  }
+}
+
+
+using System;
+class HelloWorld {
+  static void Main() {
+    string name;
+    int rollno;
+    int maths;
+    int science;
+    int social;
+    Console.WriteLine("enter name : ");
+    name=Console.ReadLine();
+    Console.WriteLine("enter rollno : ");
+    rollno=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter maths : ");
+    maths=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter science : ");
+    science=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter social : ");
+    social=Convert.ToInt32(Console.ReadLine());
+    int totalmark=maths+social+science;
+    double avgmark=(totalmark)/3.0;
+    Console.WriteLine(name+" of rollno "+rollno+" scored totalmark of "+totalmark+" and average mark of "+avgmark);
+  }
+}
