@@ -1,0 +1,58 @@
+14-07-2022
+using System;
+class HelloWorld {
+  static void Main() {
+    int itemcode;
+    string itemname;
+    float quantity;
+    float price;
+    float tot_price;
+    Console.WriteLine("enter itemcode : ");
+    itemcode=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter itemname : ");
+    itemname=Console.ReadLine();
+    Console.WriteLine("enter quantity : ");
+    quantity=(float)Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("enter price:");
+    price=(float)Convert.ToDouble(Console.ReadLine());
+    tot_price=(float)quantity*price;
+    Console.WriteLine(itemname+" of itemcode "+itemcode+" costs "+price+" rs per kg so for quantity of "+quantity+" kg it costs "+tot_price);
+  }
+}
+
+using System;
+class HelloWorld {
+  static void Main() {
+    int regno,maths,science,social;
+    string name;
+    Console.WriteLine("enter name: ");
+    name=Console.ReadLine();
+    Console.WriteLine("enter regno: ");
+    regno=Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("enter marks of 3 subjects: ");
+    maths=Convert.ToInt32(Console.ReadLine());
+    science=Convert.ToInt32(Console.ReadLine());
+    social=Convert.ToInt32(Console.ReadLine());
+    int total=maths+science+social;
+    double average=total/3.0;
+    if(maths<40 || science<40 || social<40)
+    {
+        Console.WriteLine(name+" got failed");
+    }
+    else if(average>=40 && average<50){
+        Console.WriteLine(name+" got passed");
+    }
+    else if (average>=50 && average<60)
+    {
+      Console.WriteLine(name+" got second class");
+      }
+    else if (average>=60 && average<80)
+    {
+      Console.WriteLine(name+" got first class");
+      }
+    else if (average>=80)
+    {
+      Console.WriteLine(name+" got distinction");
+      }
+}
+}
