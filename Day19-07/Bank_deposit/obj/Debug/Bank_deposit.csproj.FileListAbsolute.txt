@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\bin\Debug\Bank_deposit.exe.config
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\bin\Debug\Bank_deposit.exe
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\bin\Debug\Bank_deposit.pdb
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\obj\Debug\Bank_deposit.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\obj\Debug\Bank_deposit.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\obj\Debug\Bank_deposit.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\obj\Debug\Bank_deposit.exe
+C:\Users\HP\source\repos\Day19-07\Bank_deposit\obj\Debug\Bank_deposit.pdb

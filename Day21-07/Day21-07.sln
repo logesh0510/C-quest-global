@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21-07", "Day21-07.csproj", "{F72B495C-2E2C-4677-8329-898C51E67F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even number within range using continue", "..\even number within range using continue\even number within range using continue.csproj", "{62D44FA3-C2C1-4717-959B-D630BE9B0393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72B495C-2E2C-4677-8329-898C51E67F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B495C-2E2C-4677-8329-898C51E67F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B495C-2E2C-4677-8329-898C51E67F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B495C-2E2C-4677-8329-898C51E67F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D44FA3-C2C1-4717-959B-D630BE9B0393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D44FA3-C2C1-4717-959B-D630BE9B0393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D44FA3-C2C1-4717-959B-D630BE9B0393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D44FA3-C2C1-4717-959B-D630BE9B0393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21745717-97F2-42BF-AE29-AA4EF04FE659}
+	EndGlobalSection
+EndGlobal

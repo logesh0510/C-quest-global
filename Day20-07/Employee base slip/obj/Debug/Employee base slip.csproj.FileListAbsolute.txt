@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day20-07\Employee base slip\bin\Debug\Employee base slip.exe.config
+C:\Users\HP\source\repos\Day20-07\Employee base slip\bin\Debug\Employee base slip.exe
+C:\Users\HP\source\repos\Day20-07\Employee base slip\bin\Debug\Employee base slip.pdb
+C:\Users\HP\source\repos\Day20-07\Employee base slip\obj\Debug\Employee base slip.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day20-07\Employee base slip\obj\Debug\Employee base slip.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day20-07\Employee base slip\obj\Debug\Employee base slip.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day20-07\Employee base slip\obj\Debug\Employee base slip.exe
+C:\Users\HP\source\repos\Day20-07\Employee base slip\obj\Debug\Employee base slip.pdb

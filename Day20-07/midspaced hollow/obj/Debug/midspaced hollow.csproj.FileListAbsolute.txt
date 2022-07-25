@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\bin\Debug\midspaced hollow.exe.config
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\bin\Debug\midspaced hollow.exe
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\bin\Debug\midspaced hollow.pdb
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\obj\Debug\midspaced hollow.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\obj\Debug\midspaced hollow.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\obj\Debug\midspaced hollow.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\obj\Debug\midspaced hollow.exe
+C:\Users\HP\source\repos\Day20-07\midspaced hollow\obj\Debug\midspaced hollow.pdb

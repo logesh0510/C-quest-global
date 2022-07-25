@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\bin\Debug\Diamond pattern printing.exe.config
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\bin\Debug\Diamond pattern printing.exe
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\bin\Debug\Diamond pattern printing.pdb
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\obj\Debug\Diamond pattern printing.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\obj\Debug\Diamond pattern printing.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\obj\Debug\Diamond pattern printing.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\obj\Debug\Diamond pattern printing.exe
+C:\Users\HP\source\repos\Day20-07\Diamond pattern printing\obj\Debug\Diamond pattern printing.pdb

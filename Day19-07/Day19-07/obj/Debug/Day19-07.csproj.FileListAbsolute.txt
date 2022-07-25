@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day19-07\Day19-07\bin\Debug\Day19-07.exe.config
+C:\Users\HP\source\repos\Day19-07\Day19-07\bin\Debug\Day19-07.exe
+C:\Users\HP\source\repos\Day19-07\Day19-07\bin\Debug\Day19-07.pdb
+C:\Users\HP\source\repos\Day19-07\Day19-07\obj\Debug\Day19-07.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day19-07\Day19-07\obj\Debug\Day19-07.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day19-07\Day19-07\obj\Debug\Day19-07.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day19-07\Day19-07\obj\Debug\Day19-07.exe
+C:\Users\HP\source\repos\Day19-07\Day19-07\obj\Debug\Day19-07.pdb

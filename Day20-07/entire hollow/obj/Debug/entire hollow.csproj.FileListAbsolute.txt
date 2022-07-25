@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day20-07\entire hollow\bin\Debug\entire hollow.exe.config
+C:\Users\HP\source\repos\Day20-07\entire hollow\bin\Debug\entire hollow.exe
+C:\Users\HP\source\repos\Day20-07\entire hollow\bin\Debug\entire hollow.pdb
+C:\Users\HP\source\repos\Day20-07\entire hollow\obj\Debug\entire hollow.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day20-07\entire hollow\obj\Debug\entire hollow.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day20-07\entire hollow\obj\Debug\entire hollow.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day20-07\entire hollow\obj\Debug\entire hollow.exe
+C:\Users\HP\source\repos\Day20-07\entire hollow\obj\Debug\entire hollow.pdb

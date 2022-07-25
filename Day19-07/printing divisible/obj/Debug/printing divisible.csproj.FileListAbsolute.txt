@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day19-07\printing divisible\bin\Debug\printing divisible.exe.config
+C:\Users\HP\source\repos\Day19-07\printing divisible\bin\Debug\printing divisible.exe
+C:\Users\HP\source\repos\Day19-07\printing divisible\bin\Debug\printing divisible.pdb
+C:\Users\HP\source\repos\Day19-07\printing divisible\obj\Debug\printing divisible.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day19-07\printing divisible\obj\Debug\printing divisible.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day19-07\printing divisible\obj\Debug\printing divisible.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day19-07\printing divisible\obj\Debug\printing divisible.exe
+C:\Users\HP\source\repos\Day19-07\printing divisible\obj\Debug\printing divisible.pdb

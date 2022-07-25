@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\sum of digit or prime number\bin\Debug\sum of digit or prime number.exe.config
+C:\Users\HP\source\repos\sum of digit or prime number\bin\Debug\sum of digit or prime number.exe
+C:\Users\HP\source\repos\sum of digit or prime number\bin\Debug\sum of digit or prime number.pdb
+C:\Users\HP\source\repos\sum of digit or prime number\obj\Debug\sum of digit or prime number.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\sum of digit or prime number\obj\Debug\sum of digit or prime number.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\sum of digit or prime number\obj\Debug\sum of digit or prime number.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\sum of digit or prime number\obj\Debug\sum of digit or prime number.exe
+C:\Users\HP\source\repos\sum of digit or prime number\obj\Debug\sum of digit or prime number.pdb

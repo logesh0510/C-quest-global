@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day20-07\Day20-07\bin\Debug\Day20-07.exe.config
+C:\Users\HP\source\repos\Day20-07\Day20-07\bin\Debug\Day20-07.exe
+C:\Users\HP\source\repos\Day20-07\Day20-07\bin\Debug\Day20-07.pdb
+C:\Users\HP\source\repos\Day20-07\Day20-07\obj\Debug\Day20-07.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day20-07\Day20-07\obj\Debug\Day20-07.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day20-07\Day20-07\obj\Debug\Day20-07.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day20-07\Day20-07\obj\Debug\Day20-07.exe
+C:\Users\HP\source\repos\Day20-07\Day20-07\obj\Debug\Day20-07.pdb

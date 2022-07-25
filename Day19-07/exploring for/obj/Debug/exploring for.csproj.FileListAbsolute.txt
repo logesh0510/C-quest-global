@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Day19-07\exploring for\obj\Debug\exploring for.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Day19-07\exploring for\obj\Debug\exploring for.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Day19-07\exploring for\obj\Debug\exploring for.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day19-07\exploring for\bin\Debug\exploring for.exe.config
+C:\Users\HP\source\repos\Day19-07\exploring for\bin\Debug\exploring for.exe
+C:\Users\HP\source\repos\Day19-07\exploring for\bin\Debug\exploring for.pdb
+C:\Users\HP\source\repos\Day19-07\exploring for\obj\Debug\exploring for.exe
+C:\Users\HP\source\repos\Day19-07\exploring for\obj\Debug\exploring for.pdb
