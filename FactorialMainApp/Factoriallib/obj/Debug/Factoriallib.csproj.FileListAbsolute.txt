@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\bin\Debug\Factoriallib.dll
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\bin\Debug\Factoriallib.pdb
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\obj\Debug\Factoriallib.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\obj\Debug\Factoriallib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\obj\Debug\Factoriallib.dll
+C:\Users\HP\source\repos\C-quest-global\FactorialMainApp\Factoriallib\obj\Debug\Factoriallib.pdb

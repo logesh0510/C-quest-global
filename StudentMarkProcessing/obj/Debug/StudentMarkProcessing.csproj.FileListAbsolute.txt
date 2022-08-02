@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\bin\Debug\StudentMarkProcessing.exe.config
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\bin\Debug\StudentMarkProcessing.exe
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\bin\Debug\StudentMarkProcessing.pdb
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\obj\Debug\StudentMarkProcessing.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\obj\Debug\StudentMarkProcessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\obj\Debug\StudentMarkProcessing.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\obj\Debug\StudentMarkProcessing.exe
+C:\Users\HP\source\repos\C-quest-global\StudentMarkProcessing\obj\Debug\StudentMarkProcessing.pdb

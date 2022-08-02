@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\bin\Debug\ObjectsLearningApp.exe.config
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\bin\Debug\ObjectsLearningApp.exe
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\bin\Debug\ObjectsLearningApp.pdb
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\obj\Debug\ObjectsLearningApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\obj\Debug\ObjectsLearningApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\obj\Debug\ObjectsLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\obj\Debug\ObjectsLearningApp.exe
+C:\Users\HP\source\repos\C-quest-global\ObjectsLearningApp\obj\Debug\ObjectsLearningApp.pdb
